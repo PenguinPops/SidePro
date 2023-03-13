@@ -2,7 +2,7 @@
 
 FormatC++ to program z rozszerzeniem .exe.
 
-Prawidłowe użycie to najechanie i upuszczenie na plik .exe własny plik z rozszerzeniem .txt, co spowoduje pojawienie się nowego pliku wynik.txt, ze sformatowanym tekstem c++ gotowym do wklejenia do projektu. Wskazane jest umieszczenie pliku FormatC++.exe do nowoutworzonego folderu aby łatwo otrzymać plik wynikowy.
+Prawidłowe użycie to najechanie i upuszczenie na plik .exe własny plik z rozszerzeniem .txt, co spowoduje pojawienie się nowego pliku wynik.txt, ze sformatowanym tekstem C++ gotowym do wklejenia do projektu. Wskazane jest umieszczenie pliku FormatC++.exe do nowoutworzonego folderu aby łatwo otrzymać plik wynikowy.
 
 Funkcje obejmują:
 - Usuwanie liczb i spacji przed tekstem
