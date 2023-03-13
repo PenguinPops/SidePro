@@ -8,4 +8,5 @@ Funkcje obejmują:
 - Usuwanie numerów i spacji przed tekstem
 - Rozpoznawanie nawiasów klamrowych i odpowiednia tabulacja treści
 
-Dla kompatybilności został dodany przykładowy plik tuWpiszTekst.txt, jeśli upuszczenie własnego pliku .txt nie zadziała wskazane jest wpisanie pożądaniej treści w ten plik, a następnie uruchomienie standardowo programu .exe. UWAGA- dla programu w tym trybie oba pliki muszą znajdować się w jednym folderze.
+Dla kompatybilności został dodany przykładowy plik tuWpiszTekst.txt, jeśli upuszczenie własnego pliku .txt nie zadziała wskazane jest wpisanie pożądaniej treści w ten plik, a następnie uruchomienie standardowo programu .exe.
+UWAGA- dla programu w tym trybie oba pliki muszą znajdować się w jednym folderze.
