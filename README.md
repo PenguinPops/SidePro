@@ -11,3 +11,6 @@ Funkcje obejmują:
 
 Dla kompatybilności został dodany przykładowy plik tuWpiszTekst.txt, jeśli upuszczenie własnego pliku .txt nie zadziała wskazane jest wpisanie pożądaniej treści w ten plik, a następnie uruchomienie standardowo programu .exe.
 UWAGA- dla programu w tym trybie oba pliki muszą znajdować się w jednym folderze.
+
+Dla użytkowników Linux:
+Należy użyć pliku FormatC++forLinux w połączeniu z tuWpiszTekst.txt, umieszczone w jednym folderze. Brak wsparcia dla Drag n' Drop, należy wkleić pożądany tekst do pliku tuWpiszTekst.txt a następnie uruchomić plik FormatC++forLinux.
