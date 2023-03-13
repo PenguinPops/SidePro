@@ -1,0 +1,19 @@
+1 double ZLab02::pobierzLiczbe()
+2 {
+3 double x = 0;
+4 bool sukces = true;
+5 string linia;
+6
+7 do{
+8 if(!sukces) cout << "!To ma być liczba." << endl;
+9 getline(cin,linia);
+10 try {
+11 x = stod(linia);
+12 sukces = true;
+13 } catch (const invalid_argument&) {
+14 sukces = false;
+15 }
+16 }while(!sukces);
+17
+18 return x;
+19 }
